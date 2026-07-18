@@ -3,6 +3,3 @@
 ## hello!
 I'm an aspiring developer and photographer from the bay area.
 
-<img src="https://heatmap.shymike.dev/?id=29032&timezone=America/Phoenix">
-
-
